@@ -1,6 +1,6 @@
-﻿token=NTE3MDE2Nzk4ODM1NjM4Mjky.Dt8GuQ.umAl4ui7lVbA1SEbvidsVHtgYLY
-owner=509719956473249802
-prefix= G
-game= Gplay
+token=NTE3MTgwMzAyOTYwMDk5MzQ4.Dt-eyA.BRKVhKGyCi0-QYl9qJJNQ7A8sFQ
+owner=399250242136047619
+prefix= V
+game= Vplay
 stayinchannel=true
 songinstatus=true 
